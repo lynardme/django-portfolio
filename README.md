@@ -15,5 +15,8 @@ python manage.py makemigrations projects
 ## Create database using migrate
 python manage.py migrate projects
 
+## Django Admin - createsuperuser
+python manage.py createsuperuser
+
 Reference:
 https://realpython.com/get-started-with-django-1/
