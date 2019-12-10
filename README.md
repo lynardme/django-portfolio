@@ -1,5 +1,9 @@
 # django-portfolio
 
+## Install packages in Conda
+conda --create djangoenv python=3
+conda install -v django
+
 ## Django template highlighter in Sublime
 Install package "djaneiro"
 
