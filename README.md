@@ -1,4 +1,4 @@
-# django-portfolio
+# Creating portfolio using Python and Django
 
 ## Install packages in Conda
 conda --create djangoenv python=3  
