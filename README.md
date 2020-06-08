@@ -8,7 +8,7 @@ conda install -v django
 Install package "djaneiro"
 
 ## Run Django Server
-python manage.py runserver
+python manage.py runserver  
 python3.8 manage.py runserver
 
 ## Create App
